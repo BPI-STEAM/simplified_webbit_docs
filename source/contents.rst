@@ -4,7 +4,7 @@
     contain the root `toctree` directive.
 
 BPI-BIT 用户文档
-=====================================================
+=================
 
 .. Hint::
 
@@ -19,7 +19,7 @@ BPI-BIT 是一款基于 ESP32 高性能芯片且兼容 micro:bit 设计的开源
     :maxdepth: 2
     :caption: BPI-BIT
 
-    bpi-steam/bit
+    bpi-steam/hardware
     bpi-steam/driver
 
 使用 Webduino 编程
