@@ -10,7 +10,7 @@ BPI-BIT 用户文档
 
     本文档托管于 `BPI-STEAM <https://github.com/BPI-STEAM>`_ 组织。
 
- BPI-BIT 开发板
+BPI-BIT 开发板
 ---------------------------
 
 BPI-BIT 是一款基于 ESP32 高性能芯片且兼容 micro:bit 设计的开源 STEAM 教育开发板。
