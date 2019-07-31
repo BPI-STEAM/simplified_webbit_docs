@@ -67,7 +67,7 @@
 ```![](buzzer/buzzer-07.jpg)```
 ![](buzzer/upload_553dd18457d0c23e596671b25ece4fc2.png)
 
-![音乐＆声音](buzzer/upload_599ca13a4d02c7810f3c1b90a53530c2.gif)
+![](buzzer/upload_599ca13a4d02c7810f3c1b90a53530c2.gif)
 
 ```![](buzzer/buzzer-10.gif)```
 ![](buzzer/upload_599ca13a4d02c7810f3c1b90a53530c2.gif)
