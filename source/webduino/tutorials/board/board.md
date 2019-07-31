@@ -2,18 +2,18 @@
 
 这里提供了三种控制开发板的方式，分别是「模拟器」、「USB」和「Wi-Fi」，模拟器能够在没有硬件的情况下进行学习，USB 可以在没有网络的情况下，通过 USB 连线操控。而Wi-Fi 则可以进行无线远程操控，通过三种不同操控方式的互相搭配，可以在各种情境下随心所欲的控制。
 
-![开发板](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/board/board-01.jpg)
+![开发板](board/board-01.jpg)
 
-![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_a305960c5d3186e1705fbd0719edd5dc.JPG)
+![](board/upload_a305960c5d3186e1705fbd0719edd5dc.JPG)
 
 
 ## 使用方式
 
 下拉选单选择「模拟器」，表示*使用右侧的「虚拟开发板」*，开发板积木里所有能控制的元件，都会和右侧的虚拟开发板对应，例如绘制一个图案，执行后，虚拟开发板就会显示图形。
 
-![开发板](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/board/board-02.jpg)
+![开发板](board/board-02.jpg)
 
-![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_ed5475fb209b45ed098fe98244184228.JPG)
+![](board/upload_ed5475fb209b45ed098fe98244184228.JPG)
 
 
 
@@ -21,7 +21,7 @@
 
 > 安装版编辑器请参考：[编辑器 ( 安装版工具列 )](../info/toolbar.html)
 
-![开发板](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/board/board-03.jpg)
+![开发板](board/board-03.jpg)
 
 
 下拉选单选择「Wi-Fi」，表示*使用「Wi-Fi」连接「硬体开发板」*，也就是通过**每块开发板的 Device ID 进行控制**，只要知道 Device ID，不论开发板身在何处，都能远距操控。 ( 使用行动电源供电，会更有「远距操控」或「无线操控」的感觉 )
@@ -30,7 +30,7 @@
 
 > 开发板 Device ID 请参考：[硬体开发板 ( 初始化设定 )](../info/setup.html)
 
-![开发板](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/board/board-04.jpg)
+![开发板](board/board-04.jpg)
 
 
 ## 控制多块开发板
@@ -39,22 +39,22 @@
 
 > 多块开发板*最多包含一块「模拟器」开发板和一块「USB」开发板，「Wi-Fi」开发板则没有数量限制*。
 
-![开发板](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/board/board-05.jpg)
+![开发板](board/board-05.jpg)
 
 在控制多块开发板的情况下，**不支持使用函数控制**，要特别注意！
 
-![开发板](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/board/board-06.jpg)
+![开发板](board/board-06.jpg)
 
 
 
-![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_d910330f4e5dadc186b69c21c4ff8645.JPG)
+![](board/upload_d910330f4e5dadc186b69c21c4ff8645.JPG)
 
 
 
-![开发板](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/board/board-07.jpg)
+![开发板](board/board-07.jpg)
 
 
 
-![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_ea4ff5dace7523836f3e5e57283affda.JPG)
+![](board/upload_ea4ff5dace7523836f3e5e57283affda.JPG)
 
 

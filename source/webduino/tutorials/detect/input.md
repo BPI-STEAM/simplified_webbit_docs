@@ -6,35 +6,35 @@
 
 对话框输入文字的积木有两种，第一种是「在对话框输入文字」，执行后会出现用来输入文字的对话框，第二种是「输入的文字」，执行后会取得所输入的文字。
 
-![对话框输入文字](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/detect/input-01.jpg)
+![对话框输入文字](input/input-01.jpg)
 
-![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_599cb0bbf41d4332295199f7642c7af4.png)
+![](input/upload_599cb0bbf41d4332295199f7642c7af4.png)
 
 
 ## 对话框输入文字
 
 「对话框输入文字」积木属于「*执行完成才会继续执行后方程序*」的类型( 点击前方问号小图示会提示)，当编辑画面中有这块积木，*执行时当程序遇到这块积木会暂停，直到输入文字后才会再继续*。
 
-![对话框输入文字](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/detect/input-02.jpg)
+![对话框输入文字](input/input-02.jpg)
 
 
-![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_1cce5797dbfdfba59cfab632a515679b.png)
+![](input/upload_1cce5797dbfdfba59cfab632a515679b.png)
 
 
 举例来说，下方的程序里的小怪兽在网页执行后不会讲话，直到输入文字后才会说话。
 
-![对话框输入文字](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/detect/input-03.gif)
+![对话框输入文字](input/input-03.gif)
 
-![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_b54e5e45cb2c7400d2f5f7027ac9a083.gif)
+![](input/upload_b54e5e45cb2c7400d2f5f7027ac9a083.gif)
 
 
 ## 获取输入的文字
 
 「输入的文字」积木*一般都放在「对话框输入文字」积木之后*，用来获取输入的文字，将上述的例子稍做修改，就能够再让小怪兽，讲出输入的文字。
 
-![对话框输入文字](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/detect/input-04.gif)
+![对话框输入文字](input/input-04.gif)
 
-![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_d6799d41c2963f9eea126cdc0b912e60.gif)
+![](input/upload_d6799d41c2963f9eea126cdc0b912e60.gif)
 
 
 
@@ -42,19 +42,17 @@
 
 搭配无限循环，就能将上述的例子修改成「不断输入文字」的版本。
 
-![对话框输入文字](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/detect/input-05.gif)
+![对话框输入文字](input/input-05.gif)
 
 
 
-![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_828002a7cd3adda00deac7e11e91db74.gif)
-![Uploading file..._i6lds6hjj]()
-
+![](input/upload_828002a7cd3adda00deac7e11e91db74.gif)
 
 ## 一问一答
 
 通过输入文字的方式，能够轻松实现「一问一答」的效果，在输入文字积木之前摆放小怪兽询问姓名的文字，网页执行后会停留在输入文字的阶段，输入文字之后，通过建立字串积木，让小怪兽说出「XXX 你好」的文字组合。
 
-![对话框输入文字](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/detect/input-06.gif)
+![对话框输入文字](input/input-06.gif)
 
-![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_449cda52190c8c863ac236a261af0653.gif)
+![](input/upload_449cda52190c8c863ac236a261af0653.gif)
 

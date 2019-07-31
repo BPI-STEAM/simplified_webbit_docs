@@ -8,7 +8,7 @@
 
 
 
-![](loop/upload_90684cbefd049b2c7f29bf1d66f7af70.png)
+![](color/upload_90684cbefd049b2c7f29bf1d66f7af70.png)
 
 
 
@@ -28,7 +28,7 @@
 ![颜色](color/color-03.jpg)
 
 
-![](loop/upload_b6df48315ec88021377d9f3093e9ef79.png)
+![](color/upload_b6df48315ec88021377d9f3093e9ef79.png)
 
 
 
@@ -39,7 +39,7 @@
 ![颜色](color/color-04.jpg)
 
 
-![](loop/upload_62ecdea1b9ed30c1bd93fec9600df9c4.png)
+![](color/upload_62ecdea1b9ed30c1bd93fec9600df9c4.png)
 
 
 
@@ -48,7 +48,7 @@
 ![颜色](color/color-05.gif)
 
 
-![](loop/upload_67a8f84a9ce43b92f130c1155cc613d9.gif)
+![](color/upload_67a8f84a9ce43b92f130c1155cc613d9.gif)
 
 
 ### RGB 三原色
@@ -61,7 +61,7 @@
 
 
 
-![](loop/upload_257fcab98503c20529714b930af799f2.png)
+![](color/upload_257fcab98503c20529714b930af799f2.png)
 
 
 因为颜色有 256 种，对应的数值就是 0 ~ 255，0 是最暗，255 是最亮，输入对应的数值就能产生对应的颜色，举例来说红色 255 搭配绿色 255 就会是黄色。
@@ -70,7 +70,7 @@
 
 ![颜色](color/color-07.jpg)
 
-![](loop/upload_26a1d5197486dfc82517dfef78aa935e.png)
+![](color/upload_26a1d5197486dfc82517dfef78aa935e.png)
 
 
 
@@ -79,7 +79,7 @@
 ![颜色](color/color-08.gif)
 
 
-![](loop/upload_f0478b8767b710d98996e73c7ff96844.gif)
+![](color/upload_f0478b8767b710d98996e73c7ff96844.gif)
 
 
 ### 混合颜色
@@ -94,7 +94,7 @@
 
 ![颜色](color/color-10.jpg)
 
-![](loop/upload_8285c81813b251c1d153ca10d771b3db.png)
+![](color/upload_8285c81813b251c1d153ca10d771b3db.png)
 
 
 
@@ -104,4 +104,4 @@
 ![颜色](color/color-11.gif)
 
 
-![](loop/upload_75393c4e2ad3efe1989f87f9906739aa.gif)
+![](color/upload_75393c4e2ad3efe1989f87f9906739aa.gif)
