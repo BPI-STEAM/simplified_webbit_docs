@@ -1,4 +1,4 @@
-# 键盘状态侦测
+# 键盘行为
 
 鼠标和键盘是电脑必备的两大输入装置，熟悉了键盘的输入方式，就可以地使用键盘进行简单交互，无论是要做成钢琴键盘还是游戏控制器都轻而易举，同时也可以搭配文字的输入，做出许多意想不到的互动效果。
 
@@ -8,18 +8,25 @@
 
 > 侦测键盘行为积木*处于随时侦测*的状态，*不需要搭配无限循环*。
 
-![键盘行为](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/detect/keyboard-01.jpg)
+```![键盘行为](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/detect/keyboard-01.jpg)```
+![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_cab0d8638477e4439b9bf927c1b71ace.jpg)
 
 透过按下和松开两种行为，就可以在按下键盘的同时，让小怪兽说出对应按键名称，松开键盘后就不说话。
 
-![键盘行为](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/detect/keyboard-02.gif)
+```![键盘行为](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/detect/keyboard-02.gif)```
+![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_f2b9f50319a3b47a1adff6cafdc0dc7a.gif)
+
 
 按下键盘的行为会「*连续执行指令*」，类似在打字的时候，如果按着某个按键不放，画面中就会出现一连串这个按键的文字，例如下图，设定按下键盘A 的时候小怪兽会往左旋转，网页执行后，持续按住A 怪兽就会持续旋转，放开A 怪兽就会停止，不需要设定放开的指令。
 
-![键盘行为](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/detect/keyboard-03.gif)
+```![键盘行为](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/detect/keyboard-03.gif)```
+![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_ab29dcdc4cf79cb980a9bac21baf2d2a.gif)
+
 
 ## 键盘控制小怪兽移动
 
 积木可以*同时侦测多个键盘控制行为*，通过键盘行为就能很简单的做出「按下上下左右键，小怪兽就会上下左右移动」。
 
-![键盘行为](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/detect/keyboard-04.gif)
+```![键盘行为](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/detect/keyboard-04.gif)```
+![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_307f1e13b196d6398223719f42edd2e3.gif)
+

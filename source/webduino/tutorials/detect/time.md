@@ -8,6 +8,9 @@
 
 ![日期＆时间](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/detect/time-01.jpg)
 
+![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_cb96a39bbcf323c24bf79ae38d32fe6c.png)
+
+
 ### 时钟
 
 ~~因为取得日期和时间的积木「*只会取得一次*」目前的日期时间，所以如果要持续侦测，可以搭配循环，每一秒侦测一次时间，网页执行后就能呈显时钟效果。~~
@@ -16,6 +19,9 @@
 
 ![日期＆时间](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/detect/time-02.gif)
 
+![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_27a51c6d97093758206f6fa3e30daee6.gif)
+
+
 ### 闹钟
 
 延伸时钟的范例，搭配逻辑的积木，网页执行后就能做到在某个时间点产生提醒的闹钟功能。
@@ -23,3 +29,7 @@
 > 判断时间到了之后，可以透过停止重复的积木将时间停止，避免时间继续显示。
 
 ![日期＆时间](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/detect/time-03.gif)
+
+
+
+![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_966171ad34d632dd98a6bcde20c68074.gif)
