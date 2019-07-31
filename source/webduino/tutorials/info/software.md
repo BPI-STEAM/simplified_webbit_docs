@@ -1,4 +1,3 @@
-[TOC]
 
 ## 编辑器介绍
 
@@ -6,7 +5,7 @@ Web:Bit 编辑器是 Webduino 的程序积木和学习的编程软件，它是�
 
 ### 操作界面预览
 
-![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_be9e4f1e27a719fed2161c1c19409f4e.png)
+![](software/upload_be9e4f1e27a719fed2161c1c19409f4e.png)
 
 #### 网页版
 
@@ -34,27 +33,27 @@ Web:Bit 编辑器是 Webduino 的程序积木和学习的编程软件，它是�
 - **缩放按钮**：能够快速缩放画面积木或删除积木。
 - **画面折叠按钮**：可以折叠开发板模拟器和小怪兽互动区，让积木编辑区域放大或缩小。
 
-``![编辑器 ( 操作介面 )](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/info/interface-01.jpg)``
+``![编辑器 ( 操作介面 )](software/interface-01.jpg)``
 
-![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_f63b41003e28555aeff8f6ee16471391.png)
+![](software/upload_f63b41003e28555aeff8f6ee16471391.png)
 
 ### 积木编程是什么
 
 对于第一次接触的人来说，可能不太清楚「积木编程」的由来，「积木」是翻译自「block」这个英文单词，其操作方式类似「组装积木」或「拼图」的概念，通过互相堆叠和搭配组合，就能判断不同的逻辑或依据指定的排列顺序，实现对应的动作。
 
-``![编辑器 ( 操作介面 )](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/info/interface-02.gif)``
+``![编辑器 ( 操作介面 )](software/interface-02.gif)``
 
-![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_307159386b586670a14bf1f5ec5fc23a.gif)
+![](software/upload_307159386b586670a14bf1f5ec5fc23a.gif)
 
 编辑器是基于 Google 所开发出的 Blockly 图形化编程工具，下面我们演示一下使用进行编程的效果。
 
-![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_33a9b73ee3cbdf221b611e0931b75774.gif)
+![](software/upload_33a9b73ee3cbdf221b611e0931b75774.gif)
 
 每块积木都有它对应的功能和用途，如果想了解该积木的使用方式，可以「**使用鼠标在指定的积木上单击右键**」，就能打开积木的功能列表，点击「**教学**」可以阅读该积木的教学文件，如果该积木有「**小工具**」，则可以点击小工具使用更多进阶功能。
 
-``![编辑器 ( 操作介面 )](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/info/interface-03.jpg)``
+``![编辑器 ( 操作介面 )](software/interface-03.jpg)``
 
-![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_c4c6cdc0de1c91c2558cffd94e90b0f3.png)
+![](software/upload_c4c6cdc0de1c91c2558cffd94e90b0f3.png)
 
 ### 积木使用小技巧
 
@@ -62,17 +61,17 @@ Web:Bit 编辑器是 Webduino 的程序积木和学习的编程软件，它是�
 
 如果积木程序太长，可以用鼠标在积木上点击右键，且该积木支持多行输入，可以选择「**多行输入**」将积木由单行变成多行，也更方便阅读和编辑。
 
-``![编辑器 ( 操作介面 )](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/info/interface-07.gif)``
+``![编辑器 ( 操作介面 )](software/interface-07.gif)``
 
-![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_8230ecfcdec22e4763e6c91d52a10fe5.gif)
+![](software/upload_8230ecfcdec22e4763e6c91d52a10fe5.gif)
 
 #### 小技巧 2、整理积木
 
 在使用积木编程的时候，往往会遇到积木四面八方散落在积木编辑区上的状况，这时可以在编辑区域上点击右键，选择「**整理积木**」将积木排列整齐。
 
-``![编辑器 ( 操作介面 )](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/info/interface-08.gif)``
+``![编辑器 ( 操作介面 )](software/interface-08.gif)``
 
-![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_0a5eafe50dec64e3e2d6fa239253f3cc.gif)
+![](software/upload_0a5eafe50dec64e3e2d6fa239253f3cc.gif)
 
 ### 网页版独有功能
 
@@ -86,21 +85,21 @@ Web:Bit 编辑器是 Webduino 的程序积木和学习的编程软件，它是�
 > - *第一种，开发板网路断线超过 20 分钟。 *
 > - *第二种，重新云端部署，或点击编辑器的「执行」按钮。 *
 
-![编辑器 ( 操作介面 )](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/info/interface-06.jpg)
+![编辑器 ( 操作介面 )](software/interface-06.jpg)
 
 #### 分享链接
 
 在网页版可以使用「**文件> 分享**」，分享可以帮助我们保存积木分享给他人，它会产生一段「**网址**」，下次再开启这个网址就可以载入分享的积木，但是安装版无法使用该功能。
 
-``![编辑器 ( 操作介面 )](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/info/interface-04.jpg)``
+``![编辑器 ( 操作介面 )](software/interface-04.jpg)``
 
-![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_d3033bfde0425d6e16c1858a89b2ae85.png)
+![](software/upload_d3033bfde0425d6e16c1858a89b2ae85.png)
 
 在网页版主菜单的「**更多**」里面，包含「**下载安装**」的选项，点击后会下载安装版的压缩文件，解压缩安装就可以使用安装版。 ( 目前安装版编辑器仅支持 Windows )
 
-``![编辑器 ( 操作介面 )](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/info/interface-05.jpg)``
+``![编辑器 ( 操作介面 )](software/interface-05.jpg)``
 
-![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_90807bd259b8c6159aad92f7686fd0ee.png)
+![](software/upload_90807bd259b8c6159aad92f7686fd0ee.png)
 
 ### 安装版菜单说明
 
@@ -125,7 +124,7 @@ Web:Bit 编辑器是 Webduino 的程序积木和学习的编程软件，它是�
 
 ``![编辑器 ( 安装版工具列 )](https://raw.githubusercontent.com/bpi-steam/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/info/toolbar-02.jpg)``
 
-![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_8d9b6d8facf9d70b7d06e22b1aa48757.png)
+![](software/upload_8d9b6d8facf9d70b7d06e22b1aa48757.png)
 
 #### 工具 > 设置 Web:Bit WiFi
 
@@ -137,9 +136,9 @@ Web:Bit 编辑器是 Webduino 的程序积木和学习的编程软件，它是�
 > 
 ``![硬体 ( 初始化设定 )](https://raw.githubusercontent.com/bpi-steam/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/info/setup-03.jpg)``
 
-![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_5adc4e1cd8a9aad3325832e39268ddc2.png)
+![](software/upload_5adc4e1cd8a9aad3325832e39268ddc2.png)
 
-![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_6606fc470897e6ba6c2a2d06470c96ac.png)
+![](software/upload_6606fc470897e6ba6c2a2d06470c96ac.png)
 
 #### 工具 > 更新固件
 
@@ -148,7 +147,7 @@ Web:Bit 编辑器是 Webduino 的程序积木和学习的编程软件，它是�
 > *特别提醒！如果无法使用该功能*，**需要恢复出厂固件**。
 > 更新固件方式请参照[「开发板设置」>「更新固件」]()
 > 
-![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_2eb67fe4b80aa5bed56f592eddc5fb2c.png)
+![](software/upload_2eb67fe4b80aa5bed56f592eddc5fb2c.png)
 
 ``![硬体 ( 更新固件 )](https://raw.githubusercontent.com/bpi-steam/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/info/ota-04.jpg)``
 
@@ -160,6 +159,6 @@ Web:Bit 编辑器是 Webduino 的程序积木和学习的编程软件，它是�
 
 ``![编辑器 ( 安装版工具列 )](https://raw.githubusercontent.com/bpi-steam/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/info/toolbar-03.jpg)``
 
-![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_0cf91b296511f8a9f78812a9d5abed9f.png)
+![](software/upload_0cf91b296511f8a9f78812a9d5abed9f.png)
 
 

@@ -17,11 +17,11 @@
 
 将开发板通过 Micro USB 线连接电脑，打开安装版后，最上方会出现安装版的「版本号（如：V1.2.4）」以及「扫描 USB 设备」的提示，此时可以将开发板通过 USB 线连接电脑，让软件进行自动扫描并连接。
 
-![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_3f793de122644f3c4fb1f17de0bcc634.png)
+![](setup/upload_3f793de122644f3c4fb1f17de0bcc634.png)
 
 连接到开发板后，*上方会出现开发板的 Device ID 以及固件版本号*，接着按下键盘的*`Ctrl + W`* 开启菜单栏，用鼠标选择「*工具> 设置 Web:bit WiFi*」，开始进行初始化设置。
 
-![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_c792e42e263f5a843da6255867d1a77f.png)
+![](setup/upload_c792e42e263f5a843da6255867d1a77f.png)
 
 > *注意！没有出现如图连接情况，请使用 [Web:bit > 更新开发板固件 > 恢复出厂固件]()。
 >
@@ -32,27 +32,27 @@
 
 设置 WIFI 连接的 SSID ，存在配置则会读回，默认值是 `webduino.io` 。
 
-![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_621ed89a98ab4e189626b6f46381ddd5.png)
+![](setup/upload_621ed89a98ab4e189626b6f46381ddd5.png)
 
 设置 WIFI 连接的 密码 ，存在配置则会读回，默认值是 `webduino` 。
 
-![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_3e99dc9aeb3caa3e2793b1528718f1e0.png)
+![](setup/upload_3e99dc9aeb3caa3e2793b1528718f1e0.png)
 
 设置完成后，会弹出一个对话窗口，询问是否关闭 USB 连接，如果选择「确定」，开发板就会通过先前的 Wi-Fi 的帐号与密码，连接到指定的 Wi-Fi ，如果选择「取消」，就会关闭 Wi-Fi 连接功能，此时只能使用 USB 连接操作。
 
-![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_4b45f7eb17a57e6a31f1d483db93047e.png)
+![](setup/upload_4b45f7eb17a57e6a31f1d483db93047e.png)
 
 若选择关闭 USB 连线功能，开发板会进入 WIFI 连接模式。
 
 此时开发板会重启并闪烁红灯，当 **红灯熄灭** 且 **绿灯亮起** 之后，表示 Web:Bit 开发板已经成功连接上 WiFi 。
 
-![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_9fc275139e019a3ba9f86d0fd133c762.gif)
+![](setup/upload_9fc275139e019a3ba9f86d0fd133c762.gif)
 
 - 若红灯持续闪烁或恒亮，请拔掉电源，重新操作步骤 1 与步骤 2 。
 
 - 若红灯闪完后亮起「蓝灯」而不是绿灯，表示已有新版本可以进行下载更新，请参考[Web:bit > 更新开发板固件]() 。
 
-![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_184a8ab60565dbd34c2e4cac4a0a530b.gif)
+![](setup/upload_184a8ab60565dbd34c2e4cac4a0a530b.gif)
 
 
 ### 初始化方法 2：WIFI 连接到开发板进行初始化
@@ -63,11 +63,11 @@
 
 为开发板接上电源，上电后 开发板正面的 全彩 LED 矩阵会滚动显示一串文字( *默认是 bit 三个英文 + 四个数字* )，如下图的滚动显示的 bit1234 。
 
-![](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/info/setup-05.gif)
+![](setup/setup-05.gif)
 
 这串文字会在搜索的 WiFi 名称列表中，例如下图显示的 bit1234 ，在 WiFi 搜索界面中中就会看到 bit1234 的 WIFI 名称。
 
-![](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/info/setup-06.jpg)
+![](setup/setup-06.jpg)
 
 滚动结束后，由于开发板尚未初始化设置完成，也就无法连上局域网（内网），所以一开始 **会闪红灯，或者红灯恒亮** 。这时请准备一台具有 WiFi 功能的电脑、手提或移动设备，使用这台设备进行 Wi-Fi 搜索刚刚看到为「bitXXXX」的装置( 以上述的例子就是搜索 bit1234 )，找到该设备后，输入默认密码 **12345678** ，进行连接即可。
 
@@ -87,20 +87,18 @@
 
 > 以上表格均可在下图找到对应设置项。
 
-![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_6e1c12f5120345e4e97d8d05d9251791.png)
+![](setup/upload_6e1c12f5120345e4e97d8d05d9251791.png)
 
 设置完成后按下 **SUBMIT** 保存，出现 **SAVE OK** 的字样表示设置成功。
 
-![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_3ec8cc6a377c2a2cd987be93d391da60.png)
+![](setup/upload_3ec8cc6a377c2a2cd987be93d391da60.png)
 
 此时开发板会重启并闪烁红灯，当 **红灯熄灭** 且 **绿灯亮起** 之后，表示 Web:Bit 开发板已经成功连接上 WiFi 。
 
-![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_9fc275139e019a3ba9f86d0fd133c762.gif)
+![](setup/upload_9fc275139e019a3ba9f86d0fd133c762.gif)
 
 - 若红灯持续闪烁或恒亮，请拔掉电源，重新操作步骤 1 与步骤 2 。
 
 - 若红灯闪完后亮起「蓝灯」而不是绿灯，表示已有新版本可以进行下载更新，请参考[Web:bit > 更新开发板固件]() 。
 
-![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_184a8ab60565dbd34c2e4cac4a0a530b.gif)
-
-
+![](setup/upload_184a8ab60565dbd34c2e4cac4a0a530b.gif)

@@ -14,41 +14,41 @@
 
 将开发板通过 Micro USB 线连接电脑，最上方会出现安装版的「版本号（如：V1.2.4）」以及「扫描 USB 设备」的提示，此时可以将开发板通过 USB 线连接电脑，让软件进行自动扫描并连接。
 
-![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_3f793de122644f3c4fb1f17de0bcc634.png)
+![](update/upload_3f793de122644f3c4fb1f17de0bcc634.png)
 
 > 如果一直是「扫描 USB 设备」（长达三分钟），没有出现连线成功的消息，则表示 Web:Bit 开发板的固件可能有问题，此时可以用鼠标选择「工具 > 恢复出厂固件」进行固件修复。
-> ![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_c50c3839f4d1fe1f8e60694b1c2813fb.png)
+> ![](update/upload_c50c3839f4d1fe1f8e60694b1c2813fb.png)
 > 连接成功的可忽略此步骤，恢复出厂固件可能会让 Device ID 不同，请特别注意！
-> ![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_c2ec7e8b5a7f87de903f5edf882fe41d.png)
+> ![](update/upload_c2ec7e8b5a7f87de903f5edf882fe41d.png)
 > 
 
 连接到开发板后，*安装版上方会出现开发板的 Device ID 以及固件版本号*，接着按下键盘的*`Ctrl + W`* 开启菜单栏，用鼠标选择「*工具> 设置 Web:bit WiFi*」，开始进行初始化设置。
 
-![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_832cf2a13eb24e1c994fac3ea4d81373.png)
+![](update/upload_832cf2a13eb24e1c994fac3ea4d81373.png)
 
 在电脑中打开 **安装版** 软件，将开发板通过 Micro USB 线连接电脑，确认安装版已经正确连接到开发板之后( 上方会出现开发板的 Device ID 以及版本号码)，按下`Ctrl + W` 打开工具栏，鼠标选择「*工具> 更新固件*」，就可以开始更新固件。
 
-![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_bbb1222a27c9694ab3b8a1a71515c837.png)
+![](update/upload_bbb1222a27c9694ab3b8a1a71515c837.png)
 
 如果检测到有新版本固件可供更新，也会在开发板连接电脑后弹出对话框提示。
 
-![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_46c7a296ad1a32710e18c8dfb11a2ceb.png)
+![](update/upload_46c7a296ad1a32710e18c8dfb11a2ceb.png)
 
 如果没有弹出对话框提示，也会在上方的信息文字里，出现提示更新的消息。
 
-![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_986d0f00a17dbae92eff4feb19c21ab2.png)
+![](update/upload_986d0f00a17dbae92eff4feb19c21ab2.png)
 
 点选更新后，会再度提示请勿关闭程序或移除 USB 线，按下确认后就开始更新。
 
-![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_ffc83447d7c649a0c51d19fe6b930632.png)
+![](update/upload_ffc83447d7c649a0c51d19fe6b930632.png)
 
 更新时最上方的信息文字，会同步显示更新的进度。
 
-![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_d83789034c2b05d079e1d6a6b03477f1.png)
+![](update/upload_d83789034c2b05d079e1d6a6b03477f1.png)
 
 更新直到 100% 之后会显示目前的版本号码，表示 开发板固件已经更新完成。
 
-![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_e994b6436ddb867b584438e86d7b29b4.png)
+![](update/upload_e994b6436ddb867b584438e86d7b29b4.png)
 
 ### 更新固件方法 2：通过 Wi-Fi 远程更新
 
@@ -60,11 +60,11 @@
 - 步骤 2、断开开发板电源。
 - 步骤 3、连接开发板电源，**在白色跑马灯灯显示文字的时候，开始持续按住按钮A，直到开发板闪完红灯、绿灯熄灭上线后，此时会再听到蜂鸣器发出轻微的一个声响，再放开按钮A**。
 
-![硬件(更新固件)](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/info/ota-06.gif)
+![硬件(更新固件)](update/ota-06.gif)
 
 - 步骤 4、完成后会看到开发板的LED面板，由第一颗灯开始亮蓝灯，表示开始进行更新，*当蓝灯全部亮起接着熄灭后，表示更新完成*。
 
-![硬件(更新固件)](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/info/ota-07.gif)
+![硬件(更新固件)](update/ota-07.gif)
 
 - 步骤6、更新完成后开发板会闪红灯自动进行连线，连线成功会亮绿灯，接着绿灯熄灭，表示 OTA 更新固件完成。
 
