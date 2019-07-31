@@ -11,13 +11,13 @@ Web:Bit 编辑器是 Webduino 的程序积木和学习的编程软件，它是�
 
 使用基于 Google Chrome 内核的浏览器即可体验积木编程，注意网页版暂不支持「USB 连接」开发板。
 
-> 网页版链接：[webbit.webduino.io](https://webbit.webduino.io#_blank)
+> 网页版链接：[webbit.webduino.io](https://webbit.webduino.io/blockly/?lang=zh-hans)
 
 #### 安装版
 
 > 安装版下载：[WebBitSetup.zip](http://webduinoio.github.io/samples/content/bit-download/WebBitSetup.zip#_blank)
 
-**安裝版**目前只提供 Windows 7 以上的系统版本，不仅界面功能与网页版保持一致，还能够更方便的初始化设置和使用「USB 连接」开发板。
+**安裝版**目前只提供 Windows 7 以上的系统版本，界面与网页版保持一致，还能够更方便的初始化设置和使用「USB 连接」开发板。
 
 ### 操作界面说明
 
