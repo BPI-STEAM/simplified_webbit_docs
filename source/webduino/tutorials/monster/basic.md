@@ -6,74 +6,42 @@
 
 基本操作小怪兽的积木分别有讲话、展示图片、情绪、改变位置、改变角度、改变大小、显示隐藏和阶层...等，可以通过这些积木控制小怪兽的外在表现。
 
-<<<<<<< HEAD
-```![](basic/basic-01.jpg)```
-=======
->>>>>>> a89bff71d3c2b2311ca9a05a8a9af070173168ff
 ![](basic/upload_ecaf893841c42dfab8dba2e59219b3f0.png)
 
 ### 讲话＆不讲话
 
 「讲话」和「不讲话」积木可以让小怪兽讲出指定的文字，或不要讲出文字，通过下拉选单也可以选择哪一只小怪兽讲话，或所有小怪兽一起讲话。
 
-<<<<<<< HEAD
-```![](basic/basic-02.jpg)```
-=======
->>>>>>> a89bff71d3c2b2311ca9a05a8a9af070173168ff
 ![](basic/upload_2e3b52771cffb4aa57eba477b5c2a786.png)
 
 只要在讲话的积木后方，连接指定的文字，网页执行后小怪兽就会说出指定的文字。
 
-<<<<<<< HEAD
-```![](basic/basic-03.jpg)```
-=======
->>>>>>> a89bff71d3c2b2311ca9a05a8a9af070173168ff
 ![](basic/upload_705418bdeba488d8a1aac5daf3ff86f5.png)
 
 只要把文字留空，或者使用不说话的积木，就能够让小怪兽不说话。
 
-<<<<<<< HEAD
-```![](basic/basic-04.jpg)```
-=======
->>>>>>> a89bff71d3c2b2311ca9a05a8a9af070173168ff
 ![](basic/upload_e559ef990c771072f48b1693c8b762b9.png)
 
 ### 展示图片
 
 「展示图片」积木可以让小怪兽展示一张「网络图片」。
 
-<<<<<<< HEAD
-```![](basic/basic-05.jpg)```
-=======
->>>>>>> a89bff71d3c2b2311ca9a05a8a9af070173168ff
 ![](basic/upload_b7edb18992b7d500b6902688a5b9e318.png)
 
 举例来说，从维基百科上搜寻[蒙娜丽莎]，可以得到这张图片的「[网址](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/460px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg#_blank)」，复制图片网址，贴到小怪兽展示图片的文字空格内，网页执行后，就会看见小怪兽展示这张图片。
 
 > 目前图片格式仅支援 jpg、jpeg、png、gif
 
-<<<<<<< HEAD
-```![](basic/basic-06.jpg)```
-=======
->>>>>>> a89bff71d3c2b2311ca9a05a8a9af070173168ff
 ![](basic/upload_0e42941e1908cd0eee54be33f33dc605.png)
 
 ### 情绪
 
 「情绪」积木可以改变小怪兽的情绪，包含开心、惊讶、生气、难过和随机情绪。
 
-<<<<<<< HEAD
-```![](basic/basic-07.jpg)```
-=======
->>>>>>> a89bff71d3c2b2311ca9a05a8a9af070173168ff
 ![](basic/upload_590cfe6b6bb11b37e0785e45a28d3591.png)
 
 选择对应的小怪兽 ( 也可以四只同时 )，选择对应的情绪，网页执行后就会看见小怪兽的情绪变化。
 
-<<<<<<< HEAD
-```![](basic/basic-08.jpg)```
-=======
->>>>>>> a89bff71d3c2b2311ca9a05a8a9af070173168ff
 ![](basic/upload_1ab6008309379d6e26ac09ad81d20011.png)
 
 ### 改变位置
