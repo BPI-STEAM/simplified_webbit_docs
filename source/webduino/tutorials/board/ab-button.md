@@ -5,7 +5,7 @@
 
 按钮开关积木可以指定「按下、放开、长按」三种开关行为，三种行为可分别套用到 A、B 或 A 和 B 同时操作。 ( 长按的定义为持续按下一秒 )
 
-```![按钮开关](ab-button/ab-button-01.jpg)```
+```![](ab-button/ab-button-01.jpg)```
 
 ![](ab-button/upload_06284e2585e416a5ddfd913d0ca77e09.PNG)
 
@@ -16,7 +16,7 @@
 > - USB 控制模式为「安装版编辑器」所特有，请参考 [编辑器](../index.html#software)
 > - Wi-Fi 模式需要开发板连接 Wi-Fi，请参考 [硬体开发板 ( 初始化设定 )](../info/setup.html)
 
-```![按钮开关](ab-button/ab-button-04.jpg)```
+```![](ab-button/ab-button-04.jpg)```
 
 ![](ab-button/upload_029e0e6306c329860727021f5db13f2f.PNG)
 
@@ -28,7 +28,7 @@
 
 > 模拟器里的 A+B 按钮开关，只有在编辑画面有 A+B 按钮开关的积木时才会出现。
 
-```![按钮开关](ab-button/ab-button-02.gif)```
+```![](ab-button/ab-button-02.gif)```
 
 ![](ab-button/upload_11fe6d329a7e69cc40c5499d13512724.gif)
 
@@ -39,7 +39,7 @@
 
 通过开关的按下、放开和长按三种行为，就能做出「按下时有图案，变成长按后图案会变色，最后放开开关就会关灯」的范例，执行后，如果是使用模拟器，就可以用鼠标点击 A 按钮查看变化效果，如果是使用实体开发板，则可以直接用手指按压开关。
 
-```![按钮开关](ab-button/ab-button-03.gif)```
+```![](ab-button/ab-button-03.gif)```
 
 
 

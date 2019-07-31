@@ -6,7 +6,7 @@
 
 广播积木包含一块负责发送广播消息的积木、一块负责接收广播消息的积木和一块呈现广播消息的积木。
 
-```![网路广播](broadcast/broadcast-01.jpg)```
+```![](broadcast/broadcast-01.jpg)```
 ![](broadcast/upload_66313af34ac597a959f48048083c90b8.png)
 
 
@@ -16,7 +16,7 @@
 
 > 「发送广播消息」积木属于「*发送完成才会继续执行后面程序*」的类型( 点击前方问号小图示会提示)，当编辑画面中有这块积木，*执行时当程序遇到这块积木会暂停，直到发送广播讯息后才会再继续*。
 
-```![网路广播](broadcast/broadcast-02.jpg)```
+```![](broadcast/broadcast-02.jpg)```
 ![](broadcast/upload_3d0b521e0853faeef5db3cce155ccedb.png)
 
 
@@ -27,29 +27,29 @@
 
 > 「接收广播讯息」积木属于「*不间断收听频道*」的类型 ( 点击前方问号小图示会提示 )，不需要放在循环内，就会不断地收听频道消息。
 
-```![网路广播](broadcast/broadcast-03.jpg)```
+```![](broadcast/broadcast-03.jpg)```
 ![](broadcast/upload_aee7d86e61092d779b2de4f4d544ce06.png)
 
 
 举例来说，使用者A 可以在「点击小怪兽」的同时，向频道test 发送广播消息，而使用者B 和C 负责收听test 频道，如果有收到，就让的小怪兽显示收到的广播消息。
 
-```![网路广播](broadcast/broadcast-04.gif)```
+```![](broadcast/broadcast-04.gif)```
 
 ![](broadcast/upload_0b91bc8997597950c81a08b6ff9c4da5.gif)
 
 又或者可以使用 开发板的按钮开关，按下 A 的时候向 test 频道发送文字 A，按下 B 的时候发送文字 B。
 
-```![网路广播](broadcast/broadcast-05.jpg)```
+```![](broadcast/broadcast-05.jpg)```
 ![](broadcast/upload_6d03b662089ad7597383e722fcba85a1.png)
 
 
 
 收听 test 频道的的开发板可以撰写逻辑判断，当收到 A 的时候显示红色的 A，收到 B 的时候显示蓝色的 B。
 
-```![网路广播](broadcast/broadcast-06.jpg)```
+```![](broadcast/broadcast-06.jpg)```
 ![](broadcast/upload_1787d5ea745207986a66096b047dc097.png)
 
 
 两块开发板的程序都执行后，点击负责发送广播的开发板的按钮开关，就可以看到另外一块开发板显示对应的消息。
 
-![网路广播](broadcast/broadcast-07.gif)
+![](broadcast/broadcast-07.gif)

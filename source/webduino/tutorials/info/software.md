@@ -79,7 +79,7 @@ Web:Bit 编辑器是 Webduino 的程序积木和学习的编程软件，它是�
 > - *第一种，开发板网路断线超过 20 分钟。 *
 > - *第二种，重新云端部署，或点击编辑器的「执行」按钮。 *
 
-![编辑器 ( 操作介面 )](software/interface-06.jpg)
+![](software/interface-06.jpg)
 
 #### 分享链接
 
@@ -97,7 +97,7 @@ Web:Bit 编辑器是 Webduino 的程序积木和学习的编程软件，它是�
 
 打开安装版之后按下电脑键盘的 *`Ctrl + W`* 可以打开工具列，工具列里分别有「*系统*」、「*工具*」和「*信息*」三个主要功能列表。
 
-![编辑器 ( 安装版工具列 )](https://raw.githubusercontent.com/bpi-steam/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/info/toolbar-01.gif)
+![](https://raw.githubusercontent.com/bpi-steam/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/info/toolbar-01.gif)
 
 #### 系统 > 通过浏览器打开
 

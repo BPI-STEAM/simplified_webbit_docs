@@ -7,15 +7,15 @@ Web:Bit 是 Webduino 的开发板，采用 ESP-WROOM-32 （ESP32）模组作为�
 
 ### 正面与背面
 
-![开发板介绍](hardware/upload_9ca0f2e8545e2835e9b0a8b5ae0c1330.png)
+![](hardware/upload_9ca0f2e8545e2835e9b0a8b5ae0c1330.png)
 
 Web:Bit 外观长约 5 公分，宽约 5 公分，重量约 10 ~ 12 公克，带 25 颗 LED 灯为正面（图左侧），反之为是背面（图右侧）。
 
-![开发板介绍](hardware/upload_51dd835e8e65108c6f4edee97babc922.png)
+![](hardware/upload_51dd835e8e65108c6f4edee97babc922.png)
 
 ### 尺寸规格图
 
-![开发板介绍](hardware/upload_f43892b83561e0fbb5be54cd4b288b08.png)
+![](hardware/upload_f43892b83561e0fbb5be54cd4b288b08.png)
 
 ### 全彩 LED 定义
 
@@ -23,11 +23,11 @@ Web:Bit 按照 5 * 5 排列方式焊接了 25 颗(编号 0 ~ 24 ) 1600 万色全
 
 ```
 > XXX 设计一张两者整合的图，图中带 LED 编号。
-![开发板介绍](https://doc.bpi-steam.com/zh_CN/latest/_images/product.jpg)
+![](https://doc.bpi-steam.com/zh_CN/latest/_images/product.jpg)
 板子正面的 LED 灯编号如下：
-![开发板介绍](https://doc.bpi-steam.com/zh_CN/latest/_images/table.png)
+![](https://doc.bpi-steam.com/zh_CN/latest/_images/table.png)
 ```
-![开发板介绍](hardware/upload_7fe376a15b4393441c58b84f052f8bb4.png)
+![](hardware/upload_7fe376a15b4393441c58b84f052f8bb4.png)
 
 ### 底部金手指定义
 
@@ -35,9 +35,9 @@ Web:Bit 按照 5 * 5 排列方式焊接了 25 颗(编号 0 ~ 24 ) 1600 万色全
 
 **注意：背面的金手指未连接硬件，所以无法使用**
 
-![开发板介绍](hardware/upload_4545d093f0c3899da1495995597ec383.png)
+![](hardware/upload_4545d093f0c3899da1495995597ec383.png)
 
-![开发板介绍](hardware/upload_ca07897451dd2440025709b70978f2f4.png)
+![](hardware/upload_ca07897451dd2440025709b70978f2f4.png)
 
 ### 内置传感器定义
 
