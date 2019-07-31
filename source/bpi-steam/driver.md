@@ -47,12 +47,12 @@
 
 可以看到原来的 **USB2.0-Serial** 消失了，取而代之的是 **USB-SERIAL CH340(COM3)**，这意味着你已经成功安装驱动，并且得到板子串口名称为（**COM3**），你可以通过各种串口工具来查看串口名（COM3）的板子传出的信息。
 
-## 其他系统
+### 其他系统
 
-### macOS 安装
+#### macOS 安装
 
 - [CH340 macOS 驱动使用教程](https://blog.csdn.net/jazzsoldier/article/details/70171771)
 
-### Linux 安装
+#### Linux 安装
 
 - 官方 linux Kernel2.6 以后默认自带，也可在[此处下载](http://www.wch.cn/download/CH341SER_LINUX_ZIP.html)。
