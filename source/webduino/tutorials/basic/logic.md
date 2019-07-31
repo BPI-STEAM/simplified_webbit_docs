@@ -1,168 +1,121 @@
-# 逻辑
+## 逻辑
 
 在日常生活里，不论是写程序、数学计算，还是法庭辩论，甚至是路上交通、买卖东西或要不要起床，都包含许多「逻辑」的成分，逻辑可以是很多的条件和判断，当满足了某些条件就会执行某件事，例如听见闹钟响就该起床、看到绿灯才可以通过...等状况，就是一些简单的逻辑判断。
 
-## 逻辑积木清单
+### 逻辑积木清单
 
 逻辑的积木由一个主要的积木「如果...执行...」( 前方有蓝色小齿轮的积木)，分别搭配九种逻辑判断的积木( 判断、逻辑运算、数字型态、空值、包含值、真假值...等)组成。
 
-```![逻辑](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/basic/logic-01.jpg)```
-![](logic/upload_d74453b817d8cbc8f67420a7333056cb.png)
+![逻辑](logic/upload_d74453b817d8cbc8f67420a7333056cb.png)
 
-
-## 逻辑判断
+### 逻辑判断
 
 「逻辑判断」积木预设有两种型态的组装「缺口」，在上方比较小的是「判断条件」，下方比较大的是「执行内容」，代表着*如果情况满足上方的判断条件( 判断返回值为「真」或「ture」 )，就会执行对应的内容*。
 
-```![](logic/upload_a6c7295cdab96deac8d449f3ae8a0f5d.png)```
-![](logic/upload_16cadd8a887cd7d7c8571d29cb6dc5be.png)
-
-
-
+![逻辑](logic/upload_16cadd8a887cd7d7c8571d29cb6dc5be.png)
 
 点选左上方的*蓝色小齿轮*，可以新增逻辑判断的条件，点一下可以打开，再点一下可以关闭。
 
-```![逻辑](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/basic/logic-03.gif)```
-![](logic/upload_c1d95e67bf824e8681c654f61745add0.gif)
-
+![逻辑](logic/upload_c1d95e67bf824e8681c654f61745add0.gif)
 
 逻辑判断条件有三种：*「如果」一定是在第一层，「否则如果」在中间，「否则」一定在最后*，「否则」的判断条件表示当「如果」和「否则如果」的条件都没有满足，就会执行「否则」的内容。
 
-```![逻辑](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/basic/logic-04.jpg)```
-![](logic/upload_5945cdf322fcb3bf5cabddaec5e06cc4.png)
-
+![逻辑](logic/upload_5945cdf322fcb3bf5cabddaec5e06cc4.png)
 
 如果只有*两个条件*，例如非 A 即 B，就可以单纯使用「如果」和「否则」就可以，甚至可以不使用「否则」，这样在条件外就不会进行任何动作。
 
-```![逻辑](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/basic/logic-05.jpg)```
-![](logic/upload_fbf73927c61a23deda1b01145a3de5a1.png)
+![逻辑](logic/upload_fbf73927c61a23deda1b01145a3de5a1.png)
 
-
-## 判断条件式
+### 判断条件式
 
 判断条件式主要会放在逻辑的「判断条件」缺口内，提供不同情境的逻辑判断，判断的条件主要分为：等于(=)、不等于(≠)、小于(<)、小于等于(≦ )、大于(>)、大于等于(≧)。
 
-```![逻辑](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/basic/logic-06.jpg)```
-![](logic/upload_cb9448f68887c711b063359ef36932b8.png)
-
+![逻辑](logic/upload_cb9448f68887c711b063359ef36932b8.png)
 
 使用的方式是只要把判断条件的积木，放到判断条件的缺口内即可。
 
-```![逻辑](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/basic/logic-08.jpg)```
-![](logic/upload_186028a15795813539076734ad9ff8f0.png)
-
+![逻辑](logic/upload_186028a15795813539076734ad9ff8f0.png)
 
 举例来说，可以先新增一个变量a 为0 到100 之间的随机整数，并让绿色小怪兽讲出数字，接着用逻辑判断，如果变量a 小于60 ( 返回判断为「true」 )，就让红色怪兽讲「不及格」，否则就讲「及格」，执行程序后就能看到对应的结果。
 
-```![逻辑](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/basic/logic-09.jpg)```
-![](logic/upload_eeaa27d92157eade277a5dcf36857317.png)
+![逻辑](logic/upload_eeaa27d92157eade277a5dcf36857317.png)
 
-
-## 逻辑运算子
+### 逻辑运算子
 
 「逻辑运算子」积木为逻辑判断提供了更弹性的判断条件，当中包含了「*且*」与「*或*」，如果使用「且」，在两端判断的条件空格必须都满足时，才会执行动作，如果使用「或」，只要满足其中一个条件空格就会执行动作。
 
-```![逻辑](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/basic/logic-10.jpg)```
-![](logic/upload_8f782a8a26b0d48c224cea14db2e418c.png)
-
+![逻辑](logic/upload_8f782a8a26b0d48c224cea14db2e418c.png)
 
 通常当逻辑判断里出现「如果否则」的时候，就会用到逻辑运算子，而逻辑运算子常常和判断条件的积木搭配使用。 ( 有时也会遇到只有「否则、如果」搭配逻辑运算子的情况 )
 
-```![逻辑](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/basic/logic-11.jpg)```
-![](logic/upload_42f9c58678c6331a73c6000333291869.png)
-
+![逻辑](logic/upload_42f9c58678c6331a73c6000333291869.png)
 
 以刚刚的例子来说，可以增加到四个判断条件，分别是 0、1~59、60~99 和 100，当判断条件成立时，就会让小怪兽说出数字以及对应的文字。
 
-```![逻辑](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/basic/logic-12.jpg)```
-![](logic/upload_e11ae559f854d5034ee6a9400629a365.jpg)
+![逻辑](logic/upload_e11ae559f854d5034ee6a9400629a365.jpg)
 
-## 判断数字型态
+### 判断数字型态
 
 「判断数字型态」积木可以帮助我们快速判断*奇数、偶数、整数、数字有小数点、文字和数组*。
 
-```![逻辑](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/basic/logic-13.jpg)```
-![](logic/upload_d6587c54a4a8a374d8c3526cce3d3080.png)
-
+![逻辑](logic/upload_d6587c54a4a8a374d8c3526cce3d3080.png)
 
 用法上只要直接放入判断条件的缺口内即可。
 
-```![逻辑](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/basic/logic-14.jpg)```
-![](logic/upload_b154c49ccea77e77c9a8018d8a4e6c3c.png)
-
+![逻辑](logic/upload_b154c49ccea77e77c9a8018d8a4e6c3c.png)
 
 例如我们可以设定变量 a 为两个随机数相除，再透通过小怪兽讲出整数或小数。 ( 除法的积木使用了「多行输入」，可以在积木上按右键选择多行输入，教学参考：[程序积木小技巧](../info/interface.md#tips) )
 
-```![逻辑](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/basic/logic-15.jpg)```
-![](logic/upload_32bdf404013aa3ff57dbfd13ec0cba63.jpg)
+![逻辑](logic/upload_32bdf404013aa3ff57dbfd13ec0cba63.jpg)
 
-## 判断空值
+### 判断空值
 
 「判断空值」积木主要是和「数组」积木搭配，*如果是空值返回 true，否则返回 false*。
 
-```![逻辑](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/basic/logic-16.jpg)```
-![](logic/upload_940a527a986f027d4312a3e3f9f908e6.png)
-
+![逻辑](logic/upload_940a527a986f027d4312a3e3f9f908e6.png)
 
 会产生空值有几种情况：「*无文字、数字0、空数组、空值、false ( 假)、没有值的变量*」，如果满足这几种情况，就会返回true 。
 
-```![逻辑](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/basic/logic-17.jpg)```
-![](logic/upload_d3859a77c9c8d2f118e63f93daad933b.png)
+![逻辑](logic/upload_d3859a77c9c8d2f118e63f93daad933b.png)
 
-
-## 判断是否包含文字
+### 判断是否包含文字
 
 「判断是否包含文字」积木可以检查某段文字内，是否*包含*了指定的文字或文字段落。
 
-```![逻辑](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/basic/logic-18.jpg)```
-![](logic/upload_e19fc6c7bb1646e1c55ae7742d71f5ea.png)
-
+![逻辑](logic/upload_e19fc6c7bb1646e1c55ae7742d71f5ea.png)
 
 举例来说，如果检查「你是我的小呀小苹果」里面有包含「小苹果」，绿色怪兽就会说「找到小苹果了」，反之如果是「小柠檬」，红色怪兽就会说「没有小柠檬」。
 
-```![逻辑](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/basic/logic-19.jpg)```
-![](logic/upload_db8ca02956d5db204ba27bc507384141.jpg)
+![逻辑](logic/upload_db8ca02956d5db204ba27bc507384141.jpg)
 
-
-## 非
+### 非
 
 「非」积木就如字面一样，表示「不是什么」，通常会和「真/假」或「空值」的积木搭配使用。
 
-```![逻辑](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/basic/logic-20.jpg)```
-![](logic/upload_8e537cdd9a0fbe90e1305185cedc64c5.png)
-
+![逻辑](logic/upload_8e537cdd9a0fbe90e1305185cedc64c5.png)
 
 如果把积木接在「非」的积木后面，状态就会相反过来，例如空就会变成非空、真就会变假，假就会变真，依此类推。
 
-```![逻辑](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/basic/logic-21.jpg)```
-![](logic/upload_4594830254e82507a032e5679cac1ddc.jpg)
+![逻辑](logic/upload_4594830254e82507a032e5679cac1ddc.jpg)
 
-
-
-## 真/假
+### 真/假
 
 「真/假」积木主要表示ture ( 真 ) 与false ( 假 ) 两个值，目的在让判断的时候在数字、文字之外，多一些判断的条件，同时也可以将ture 和false 提交给变量，在某些情境下也相当好用。
 
-```![逻辑](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/basic/logic-22.jpg)```
-![](logic/upload_48176ba391825c26aaef72b3595b60be.png)
+![逻辑](logic/upload_48176ba391825c26aaef72b3595b60be.png)
 
-
-## 空
+### 空
 
 在写程序的时候，有时候会遇到某个变量或是某个数值变成空值 ( null )，这时就可以使用空值的积木判断，用法和「真/假」的用法类似。
 
-```![逻辑](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/basic/logic-23.jpg)```
-![](logic/upload_810b05b8276ef7170332561e0d1e94b8.png)
+![逻辑](logic/upload_810b05b8276ef7170332561e0d1e94b8.png)
 
-
-## 三元逻辑运算符
+### 三元逻辑运算符
 
 「三元逻辑运算符」积木是针对只有「*两种条件*」的问题，并针对根据条件传回「两个运算式」的其中一个。
 
-```![逻辑](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/basic/logic-24.jpg)```
-![](logic/upload_f62416838b47bcaf4ef9a3085dad9247.png)
+![逻辑](logic/upload_f62416838b47bcaf4ef9a3085dad9247.png)
 
 如果用上面提到的及格与不及格的例子，因为只有两种条件，就可以通过三元逻辑运算子来轻松实现，且还可以使用比较少的积木完成同样的结果。
 
-```![逻辑](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/basic/logic-25.jpg)```
-![](logic/upload_e71e8699fedf0988d8a4d0b7a122f5d1.jpg)
+![逻辑](logic/upload_e71e8699fedf0988d8a4d0b7a122f5d1.jpg)
