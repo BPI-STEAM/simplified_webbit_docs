@@ -2,7 +2,7 @@
 BPI-STEAM 用户文档
 ===================
 
-BPI-STEAM 是专注于软硬件开源技术的开源组织，从 2018 年起推出 BPI-BIT 开发板，随之推出 Webduino 、 MicroPython 、 Arduino 等开源技术支持，通过用户文档让用户能够轻松入门。
+BPI-STEAM 是专注于软硬件开源技术的开源组织，从 2018 年起推出 BPI-BIT 开发板，随之推出 Webduino 、 MicroPython 、 Arduino 等开源技术支持，通过用户文档能够让用户轻松入门 BPI-STEAM 所提供的技术产品。
 
 .. Hint::
 
