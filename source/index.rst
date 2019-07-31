@@ -2,8 +2,14 @@
 BPI-STEAM 用户文档
 ===================
 
+本用户文档托管于 `BPI-STEAM <https://github.com/BPI-STEAM>`_ 开源组织。
+
+.. Hint::
+
+    BPI-STEAM 是一个专注于提供软硬件开源技术的开源组织，从 2018 年起推出 BPI-BIT 开发板，随之推出 Webduino 、 MicroPython 、 Arduino 等开源技术支持，提供了 用户文档 及 开发文档 ，方便用户上手、入门和开发。
+
 BPI-BIT 开发板
----------------------------
+---------------
 
 BPI-BIT 是一款基于 ESP32 高性能芯片且兼容 micro:bit 设计的开源 STEAM 教育开发板。
 
@@ -17,7 +23,7 @@ BPI-BIT 是一款基于 ESP32 高性能芯片且兼容 micro:bit 设计的开源
     bpi-steam/driver
 
 使用 Webduino 编程
----------------------------
+------------------
 
 用户通过 Web:bit 编辑器，就可以使用面向全世界的 Webduino Blockly 积木化在线编程。
 
