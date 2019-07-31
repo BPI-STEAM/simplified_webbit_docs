@@ -1,19 +1,19 @@
-.. Introduction to BPI-STEAM documentation master file, created by
-    sphinx-quickstart on Sun May 26 22:43:43 2019.
-    You can adapt this file completely to your liking, but it should at least
-    contain the root `toctree` directive.
 
-BPI-BIT 用户文档
-=================
+BPI-STEAM 用户文档
+===================
+
+BPI-STEAM 是专注于软硬件开源技术的开源组织，从 2018 年起推出 BPI-BIT 开发板，随之推出 Webduino 、 MicroPython 、 Arduino 等开源技术支持，本用户文档追求让用户轻松入门。
 
 .. Hint::
 
-    本文档托管于 `BPI-STEAM <https://github.com/BPI-STEAM>`_ 组织。
+    本用户文档托管于 `BPI-STEAM <https://github.com/BPI-STEAM>`_ 开源组织。
 
-认识 BPI-BIT 板子
----------------------------
+BPI-BIT 开发板
+---------------
 
 BPI-BIT 是一款基于 ESP32 高性能芯片且兼容 micro:bit 设计的开源 STEAM 教育开发板。
+
+.. image:: _static/bit.png
 
 .. toctree::
     :maxdepth: 2
@@ -23,9 +23,11 @@ BPI-BIT 是一款基于 ESP32 高性能芯片且兼容 micro:bit 设计的开源
     bpi-steam/driver
 
 使用 Webduino 编程
----------------------------
+------------------
 
-用户通过烧写 Webduino 固件，就可以使用面向全世界的 Webduino Blockly 积木化在线编程。
+用户通过 Web:bit 编辑器，就可以使用面向全世界的 Webduino Blockly 积木化在线编程。
+
+.. image:: _static/editor.png
 
 .. toctree::
     :maxdepth: 2
@@ -34,8 +36,6 @@ BPI-BIT 是一款基于 ESP32 高性能芯片且兼容 micro:bit 设计的开源
     webduino/tutorials/index
     webduino/advanced/index
     webduino/modules/index
-
-只需浏览器，即可随时查看云端和托管你的代码，配合 Github 上各种有趣的插件系统与多语言化环境，享受全世界流行的积木编程吧!
 
 使用 MicroPython 编程
 ---------------------------
