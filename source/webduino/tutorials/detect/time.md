@@ -6,9 +6,9 @@
 
 「日期」积木能够取得目前的年、月、日，「时间」积木能够取得目前的小时、分钟、秒，小时采用 24 小时计算，如果是下午三点会显示 15。
 
-![日期＆时间](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/detect/time-01.jpg)
+![日期＆时间](time/time-01.jpg)
 
-![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_cb96a39bbcf323c24bf79ae38d32fe6c.png)
+![](time/upload_cb96a39bbcf323c24bf79ae38d32fe6c.png)
 
 
 ### 时钟
@@ -17,9 +17,9 @@
 
 所下图执行该积木即可取得时间。
 
-![日期＆时间](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/detect/time-02.gif)
+![日期＆时间](time/time-02.gif)
 
-![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_27a51c6d97093758206f6fa3e30daee6.gif)
+![](time/upload_27a51c6d97093758206f6fa3e30daee6.gif)
 
 
 ### 闹钟
@@ -28,8 +28,8 @@
 
 > 判断时间到了之后，可以透过停止重复的积木将时间停止，避免时间继续显示。
 
-![日期＆时间](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/detect/time-03.gif)
+![日期＆时间](time/time-03.gif)
 
 
 
-![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_966171ad34d632dd98a6bcde20c68074.gif)
+![](time/upload_966171ad34d632dd98a6bcde20c68074.gif)
