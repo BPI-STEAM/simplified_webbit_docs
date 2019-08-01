@@ -17,18 +17,15 @@
 
 
 
-下拉选单选择「USB」，表示*使用「USB 线」连接「硬体开发板」*，**必须使用「安装版编辑器」操作**，例如绘制一个图案，执行后，透过USB 连接的开发板就会显示图形。
+下拉选单选择「USB」，表示*使用「USB 线」连接「硬体开发板」*，**必须使用「编辑器（安装版）」操作**，例如绘制一个图案，执行后，透过USB 连接的开发板就会显示图形。
 
-> 安装版编辑器请参考：[编辑器 ( 安装版工具列 )](../info/toolbar.html)
+> 「编辑器（安装版）」请参考：[编辑器介绍](../info/software.md)
 
 ![](board/board-03.jpg)
 
-
 下拉选单选择「Wi-Fi」，表示*使用「Wi-Fi」连接「硬体开发板」*，也就是通过**每块开发板的 Device ID 进行控制**，只要知道 Device ID，不论开发板身在何处，都能远距操控。 ( 使用行动电源供电，会更有「远距操控」或「无线操控」的感觉 )
 
->XXXX需要修复链接
-
-> 开发板 Device ID 请参考：[硬体开发板 ( 初始化设定 )](../info/setup.html)
+> 开发板 Device ID 请参考：[开发板设置](../info/setup.md)
 
 ![](board/board-04.jpg)
 
@@ -45,16 +42,8 @@
 
 ![](board/board-06.jpg)
 
-
-
 ![](board/upload_d910330f4e5dadc186b69c21c4ff8645.JPG)
-
-
 
 ![](board/board-07.jpg)
 
-
-
 ![](board/upload_ea4ff5dace7523836f3e5e57283affda.JPG)
-
-

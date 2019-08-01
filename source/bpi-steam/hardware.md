@@ -21,12 +21,6 @@ Web:Bit 外观长约 5 公分，宽约 5 公分，重量约 10 ~ 12 公克，带
 
 Web:Bit 按照 5 * 5 排列方式焊接了 25 颗(编号 0 ~ 24 ) 1600 万色全彩 LED (WS2812) ，所有的 LED 的控制仅使用一个引脚 (GPIO 4) 即可控制。
 
-```
-> XXX 设计一张两者整合的图，图中带 LED 编号。
-![](https://doc.bpi-steam.com/zh_CN/latest/_images/product.jpg)
-板子正面的 LED 灯编号如下：
-![](https://doc.bpi-steam.com/zh_CN/latest/_images/table.png)
-```
 ![](hardware/upload_7fe376a15b4393441c58b84f052f8bb4.png)
 
 ### 底部金手指定义
