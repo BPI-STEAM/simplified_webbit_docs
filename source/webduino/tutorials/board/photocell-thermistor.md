@@ -16,7 +16,6 @@
 
 「检测光线」积木使用时只会检测一次，搭配循环就能进行连续检测。
 
-![](photocell-thermistor/upload_9586c259e986161dc0f90e80ba0b5822.gif)
 
 ![](photocell-thermistor/upload_0be0e23afc298517fc1d3c103908efa5.png)
 
