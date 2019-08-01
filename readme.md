@@ -376,7 +376,7 @@
 ## 系统功能
 
 ### 键盘行为
-#### 侦测键盘行为
+#### 检测键盘行为
 #### 键盘控制小怪兽移动
 
 > 编辑者 陈渊 2019年7月22日 校对
@@ -467,7 +467,7 @@
 
 [A & B 按钮](https://demo.codimd.org/Nl-yaKQcSPqi8Rh6-IXCMg)
 
-### 侦测光线与温度
+### 检测光线与温度
 
 #### 积木清单
 #### 检测光线
@@ -477,7 +477,7 @@
 > 编辑者 齐刃 2019年7月29日 校对图片
 > 
 
-[侦测光线与温度](https://demo.codimd.org/KH3jdGHSSV2Lhcd-yroW_Q#)
+[检测光线与温度](https://demo.codimd.org/KH3jdGHSSV2Lhcd-yroW_Q#)
 
 ### 声音与音乐
 
