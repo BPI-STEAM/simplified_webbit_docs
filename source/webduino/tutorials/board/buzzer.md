@@ -9,8 +9,6 @@
 ![](buzzer/upload_d81f8c3e1d6daeb5fc4f33be0b754585.png)
 
 > *音乐＆声音积木必须搭配「开发板」积木*，选择模拟器，执行后可以听见电脑喇叭发出声音，选择USB，执行后会通过USB 连线方式控制实体开发板，让开发板的蜂鸣器发出声音，选择Wi-Fi 则可通过 Wi-Fi 指定 Device ID 操控。
-> - USB 控制模式为「安装版编辑器」所特有，请参考 [编辑器](../index.html#software)
-> - Wi-Fi 模式需要开发板连接 Wi-Fi，请参考 [硬体开发板 ( 初始化设定 )](../info/setup.html)
 
 ### 演奏音阶
 
