@@ -7,6 +7,7 @@ Web:Bit 是 Webduino Bit 开发板的缩写，Web:Bit 教育版是由 Webduino �
 
 Web:Bit 是 Webduino 最新的 Bit 开发板，采用 ESP-WROOM-32 （ESP32）模组作为核心，拥有 Wi-Fi & Bluetooth 无线功能，支持多设备协同控制，更是内置了许多有趣的传感器，用户可以轻松体验到编程的无穷乐趣。
 
+
 > [Web:Bit > 开发板介绍]()
 
 ![](https://codimd.s3.shivering-isles.com/demo/uploads/upload_c1f328b30dc9c7234b6699dce5041d31.png)
