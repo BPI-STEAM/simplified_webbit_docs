@@ -72,7 +72,7 @@
 
 ### 矩阵 LED 控制灯号
 
-「矩阵 LED 控制灯号」积木可以使用矩阵 LED 的方式控制矩阵 LED  LED 灯号的运作。
+「矩阵 LED 控制灯号」积木可以使用矩阵 LED 的方式控制矩阵 LED 灯号的运作。
 
 ![](rgbled-matrix/upload_a360aaa10807f6cb8c8e2facc7445288.png)
 
