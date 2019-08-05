@@ -29,7 +29,7 @@
 ## 开发板介绍
 ### 正面与背面
 ### 尺寸规格图
-### 全彩 LED 定义
+### 矩阵 LED  定义
 ### 底部金手指定义
 ### 内置传感器定义
 ### 相关硬件资料
@@ -435,7 +435,7 @@
 
 [开发板控制](https://demo.codimd.org/FJTISrV-QquEt1W1EHF4RA)
 
-### 全彩 LED 
+### 矩阵 LED  
 
 #### 矩阵 LED 积木清单
 #### 显示颜色
@@ -453,7 +453,7 @@
 > 编辑者 齐刃 2019年7月30日 校对图片
 > 
 
-[全彩 LED](https://demo.codimd.org/amtuxf2_QzGHzBwfZlLM8A#)
+[矩阵 LED ](https://demo.codimd.org/amtuxf2_QzGHzBwfZlLM8A#)
 
 ### A & B 按钮
 
