@@ -74,13 +74,13 @@
 
 ![](event/upload_a0ffebb197b6a1b7e624df95575db57e.png)
 
-举例来说，找一张[清明上河图](https://theme.npm.edu.tw/opendata/att/collectionPic/04015934/17024347.jpg#_blank)的图片网址，将网址贴上在背景图片的文字积木内，网页执行后就会看见舞台背景变成清明上壳图了
+举例来说，找一张[清明上河图](https://theme.npm.edu.tw/opendata/att/collectionPic/04015934/17024347.jpg#_blank)的图片网址，将网址贴上在背景图片的文字积木内，网页执行后就会看见舞台背景变成清明上河图了。
 
 ![](event/upload_0a5192dcef98295928291f37dc3aa941.png)
 
 ### 设定舞台为全屏幕
 
-「设定舞台为全屏幕」积木不影响任何操作，只会在「网页执行时」把怪兽互动舞台变成全萤幕大小。
+「设定舞台为全屏幕」积木不影响任何操作，只会在「网页执行时」把怪兽互动舞台变成全屏幕大小。
 
 ![](event/upload_c7f81fc1821ae721f0a1ae538cf657d7.png)
 
