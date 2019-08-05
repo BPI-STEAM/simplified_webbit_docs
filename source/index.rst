@@ -11,7 +11,7 @@ BPI-STEAM 是专注于软硬件开源技术的开源组织，属于 `Banana-Pi <
 BPI-BIT 开发板
 ---------------
 
-BPI-BIT 是一款基于 ESP32 高性能芯片且兼容 micro:bit 设计的开源 STEAM 教育开发板。
+BPI-BIT 是一款基于 ESP32 高性能芯片且兼容 micro:bit 设计的开源 STEAM 教育开发板，又名 Bpi:Bit、Web:Bit 。
 
 .. image:: _static/bit.png
 
@@ -25,13 +25,12 @@ BPI-BIT 是一款基于 ESP32 高性能芯片且兼容 micro:bit 设计的开源
 使用 Webduino 编程
 ------------------
 
-用户通过 Web:bit 编辑器，就可以使用面向全世界的 Webduino Blockly 积木化在线编程。
+使用下图的 Web:Bit 专用编辑器，通过拖拽积木来轻松学习编程吧。
 
 .. image:: _static/editor.png
 
 .. toctree::
     :maxdepth: 2
-    :caption: Webduino
 
     webduino/tutorials/index
     webduino/advanced/index
@@ -40,13 +39,12 @@ BPI-BIT 是一款基于 ESP32 高性能芯片且兼容 micro:bit 设计的开源
 使用 MicroPython 编程
 ---------------------------
 
-用户通过烧写 MicroPython 固件，就可以使用当下世界上最流行的 Python 语言进行编程。
+通过烧写 MicroPython 固件，就可以在开发板中 Python 语言进行编程。
 
-提供丰富的 examples 配合专业 IDE 的支持（如：VsCode、PyCharm），以便您轻松地将代码从电脑传输到板子中，从而体验程序创作的无穷乐趣！
+在下述目录将提供丰富的示例代码以及专业 IDE 的支持（如：VsCode、PyCharm）。
 
 .. toctree::
     :maxdepth: 2
-    :caption: MicroPython
 
     micropython/tutorials/index
     micropython/advanced/index
@@ -62,11 +60,10 @@ BPI-BIT 是一款基于 ESP32 高性能芯片且兼容 micro:bit 设计的开源
 
     Arduino 将不会阐述过多基础内容，请具备 C/C++ 的语言开发基础。
 
-BPI-BIT 提供了入门 Arduino 的软件工具和最佳示例，降低进入 ESP32 嵌入式专业开发的门槛。
+提供了入门 Arduino 的软件工具和最佳示例，降低进入 ESP32 嵌入式专业开发的门槛。
 
 .. toctree::
     :maxdepth: 2
-    :caption: Arduino
 
     arduino/tutorials/index
     arduino/advanced/index
