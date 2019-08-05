@@ -4,7 +4,6 @@ BPI-STEAM 用户文档
 
 .. toctree::
     :maxdepth: 2
-    :caption: BPI-BIT
 
     bpi-steam/hardware
     bpi-steam/driver
