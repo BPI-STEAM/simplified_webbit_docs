@@ -76,7 +76,7 @@
 | Wi-Fi     | SSID、PWD     | 至少填入一组 Wi-Fi 热点的 SSID（账号）和 PWD（密码），表示开发板要连接哪个 Wi-Fi 路由器，最多可填入三组，它会依据不同的环境自动切换。     |
 | Device | Device ID | 每块开发板的唯一识别代码，目前版本预设都是短 ID。( 如果看到 ID 为 18 码的长 ID，可以点击 Shorten the ID 的按钮更换为短 ID，或进行远端更新自动更换为「短 ID」。 |
 | Device | Device SSID、PWD | 可连接 WIFI 的设备在搜索 WiFi 中所显示的名称和密码，若不填写会自动产生 SSID 以及预设密码 12345678 。 |
-| Device | MQTT Server | 开发板要连接的伺服器，预设 Global，中国地区请选择 China。 |
+| Device | MQTT Server | 开发板要连接的服务器，预设 Global，中国地区请选择 China。 |
 |Device	|Enable WiFi AP	|是否永远在 Wi-Fi 列表中看见开发板，预设持续显示，可选择三分钟后关闭 WI-FI 热点。|
 |Info	|-	|开发板相关信息，包含网卡地址、Wi-Fi 连接情况以及版本号。
 
