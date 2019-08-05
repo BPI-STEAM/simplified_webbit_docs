@@ -8,8 +8,8 @@ BPI-STEAM 是专注于软硬件开源技术的开源组织，属于 `Banana-Pi <
 
     本文档托管于 `BPI-STEAM <https://github.com/BPI-STEAM>`_ 开源组织。
 
-BPI-BIT 开发板
----------------
+认识 BPI-BIT 开发板
+-------------------
 
 BPI-BIT 是一款基于 ESP32 高性能芯片且兼容 micro:bit 设计的开源 STEAM 教育开发板，又名 Bpi:Bit、Web:Bit 。
 
