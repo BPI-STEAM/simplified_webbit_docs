@@ -13,15 +13,6 @@
 
 ![](update/upload_3f793de122644f3c4fb1f17de0bcc634.png)
 
-> 如果一直是「扫描 USB 设备」（长达三分钟），没有出现连线成功的消息，则表示 Web:Bit 开发板的固件可能有问题，此时可以用鼠标选择「工具 > 恢复出厂固件」进行固件修复。
-> 
-> ![](update/upload_c50c3839f4d1fe1f8e60694b1c2813fb.png)
-> 
-> 连接成功的可忽略此步骤，恢复出厂固件可能会让 Device ID 不同，请特别注意！
->
-> ![](update/upload_c2ec7e8b5a7f87de903f5edf882fe41d.png)
-> 
-
 连接到开发板后，*安装版上方会出现开发板的 Device ID 以及固件版本号*，接着按下键盘的*`Ctrl + W`* 开启菜单栏，用鼠标选择「*工具> 设置 Web:bit WiFi*」，开始进行初始化设置。
 
 ![](update/upload_832cf2a13eb24e1c994fac3ea4d81373.png)
@@ -49,6 +40,16 @@
 更新直到 100% 之后会显示目前的版本号码，表示 开发板固件已经更新完成。
 
 ![](update/upload_e994b6436ddb867b584438e86d7b29b4.png)
+
+#### 恢复出厂固件
+
+如果一直是「扫描 USB 设备」（长达三分钟），没有出现连线成功的消息，则表示 Web:Bit 开发板的固件可能有问题，此时可以用鼠标选择「工具 > 恢复出厂固件」进行固件修复。
+
+![](update/upload_c50c3839f4d1fe1f8e60694b1c2813fb.png)
+
+连接成功的可忽略此步骤，恢复出厂固件可能会让 Device ID 不同，请特别注意！
+
+![](update/upload_c2ec7e8b5a7f87de903f5edf882fe41d.png)
 
 ### 更新固件方法 2：通过 Wi-Fi 远程更新
 
