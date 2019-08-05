@@ -24,7 +24,7 @@ BPI-BIT 是一款基于 ESP32 高性能芯片且兼容 micro:bit 设计的开源
 使用 Webduino 编程
 ------------------
 
-使用下图的 Web:Bit 专用编辑器，通过拖拽积木来轻松学习编程吧。
+通过 Web:Bit 专用积木编辑器，使用拖拽积木来轻松学习编程吧。
 
 .. image:: _static/editor.png
 
