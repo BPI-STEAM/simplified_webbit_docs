@@ -11,7 +11,7 @@ BPI-STEAM 用户文档
 
 .. toctree::
     :maxdepth: 2
-    :caption: Webduino
+    :caption: Webduino 目录
 
     webduino/tutorials/index
     webduino/advanced/index
@@ -19,7 +19,7 @@ BPI-STEAM 用户文档
 
 .. toctree::
     :maxdepth: 2
-    :caption: MicroPython
+    :caption: MicroPython 目录
 
     micropython/tutorials/index
     micropython/advanced/index
@@ -30,7 +30,7 @@ BPI-STEAM 用户文档
 
 .. toctree::
     :maxdepth: 2
-    :caption: Arduino
+    :caption: Arduino 目录
 
     arduino/tutorials/index
     arduino/advanced/index
@@ -38,7 +38,7 @@ BPI-STEAM 用户文档
 
 .. toctree::
     :maxdepth: 2
-    :caption: 拓展板
+    :caption: Bit 拓展板
 
 Indices and tables
 ==================

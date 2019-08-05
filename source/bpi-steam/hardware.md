@@ -17,9 +17,9 @@ Web:Bit 外观长约 5 公分，宽约 5 公分，重量约 10 ~ 12 公克，带
 
 ![](hardware/upload_f43892b83561e0fbb5be54cd4b288b08.png)
 
-### 全彩 LED 定义
+### 矩阵 LED 定义
 
-Web:Bit 按照 5 * 5 排列方式焊接了 25 颗(编号 0 ~ 24 ) 1600 万色全彩 LED (WS2812) ，所有的 LED 的控制仅使用一个引脚 (GPIO 4) 即可控制。
+Web:Bit 按照 5 * 5 排列方式焊接了 25 颗(编号 0 ~ 24 ) 1600 万色全彩矩阵 LED (WS2812) ，所有的 LED 的控制仅使用一个引脚 (GPIO 4) 即可控制。
 
 ![](hardware/upload_7fe376a15b4393441c58b84f052f8bb4.png)
 
