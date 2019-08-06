@@ -39,7 +39,7 @@ BPI-BIT 是一款基于 ESP32 高性能芯片且兼容 micro:bit 设计的开源
 使用 MicroPython 编程
 ---------------------------
 
-通过烧写 MicroPython 固件，就可以在开发板中 Python 语言进行编程。
+通过烧写 MicroPython 固件，就可以在开发板中使用 Python 语言进行编程。
 
 在下述目录将提供丰富的示例代码以及专业 IDE 的支持（如：VsCode、PyCharm）。
 
