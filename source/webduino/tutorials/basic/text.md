@@ -12,11 +12,11 @@
 
 「指定文字」积木可以输入指定的文字，以便其他积木使用。
 
-![](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/basic/text-02.jpg)
+![](text/text-02.jpg)
 
 例如在小怪兽讲话积木后方接上指定文字，输入 hello，网页执行后小怪兽就会说出 hello。
 
-![](https://raw.githubusercontent.com/junhuanchen/test_repository/master/bpi-web/tutorials/images/zh-tw/docs/webbit/basic/text-03.jpg)
+![](text/text-03.jpg)
 
 ### 换行
 
