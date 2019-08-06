@@ -32,6 +32,12 @@
 
 在控制多块开发板的情况下，**不支持使用函数控制**，要特别注意！
 
-![](board/upload_d910330f4e5dadc186b69c21c4ff8645.jpg)
+![](board/upload_d910330f4e5dadc186b69c21c4ff8645.png)
 
-![](board/upload_ea4ff5dace7523836f3e5e57283affda.jpg)
+但不可以在多个开发板中使用 函数 控制硬件外设，如下图。
+
+![](board/upload_ea4ff5dace7523836f3e5e57283affda.png)
+
+因此若是想要做到同样的效果，此时的做法应该要如下：
+
+![](board/board-07.png)
