@@ -7,7 +7,7 @@ Web:Bit 是 Webduino Bit 开发板的缩写，Web:Bit 教育版是由 Webduino
 
 |image1|
 
-Web:Bit 教育版的编辑器分成 **网页版** 和 **安装版**，功能与界面几乎完全相同，可以依据不同的教学场景需求采用不同的版本。
+想知道更多？可以点击目录或底部 [ Next ] 按钮继续往下阅读。
 
 .. toctree::
     :maxdepth: 2
