@@ -8,7 +8,7 @@
 
 ![](photocell-thermistor/upload_67a10398c136bfeed9a746d768e4f45a.png)
 
-> *检测光线和温度积木必须搭配「开发板」积木*，选择模拟器，执行后可以使用鼠标拖拉模拟器的灯泡或火焰。选择USB，执行后会通过 USB 连线方式控制实体开发板，选择 Wi-Fi 则可通过 Wi-Fi 指定 Device ID 操控开发板。
+> *检测光线和温度积木必须搭配「开发板」积木*，选择模拟器，执行后可以使用鼠标拖拉模拟器的灯泡或火焰。选择USB，执行后会通过 USB 连接方式控制实体开发板，选择 Wi-Fi 则可通过 Wi-Fi 指定 Device ID 操控开发板。
 
 ![](photocell-thermistor/upload_1715ac062f8e311ec52e5f0138674042.png)
 

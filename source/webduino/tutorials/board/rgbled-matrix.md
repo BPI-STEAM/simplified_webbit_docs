@@ -8,7 +8,7 @@
 
 ![](rgbled-matrix/upload_f63f939496f887fe4786365a69edc0fc.png)
 
-> *使用矩阵 LED 积木必须搭配「开发板」积木*，选择模拟器，执行后可以控制右侧模拟器的 LED 矩阵，选择 USB，执行后会通过 USB 连线方式控制实体开发板，选择 Wi-Fi 则可通过 Wi-Fi 指定 Device ID 操控开发板。
+> *使用矩阵 LED 积木必须搭配「开发板」积木*，选择模拟器，执行后可以控制右侧模拟器的 LED 矩阵，选择 USB，执行后会通过 USB 连接方式控制实体开发板，选择 Wi-Fi 则可通过 Wi-Fi 指定 Device ID 操控开发板。
 
 ![](rgbled-matrix/upload_a405d0e0455fd644717101c3751df0a6.png)
 
@@ -18,7 +18,7 @@
 
 ![](rgbled-matrix/upload_e2315998a8cfe9acedd68bec5112c70c.png)
 
-开发板选择模拟器，显示颜色积木选择红色，执行后，虚拟的开发板 25 颗灯都变成红色。 ( 若手边有开发板，可以使用 USB 或 Wi-Fi 连线控制 )
+开发板选择模拟器，显示颜色积木选择红色，执行后，虚拟的开发板 25 颗灯都变成红色。 ( 若手边有开发板，可以使用 USB 或 Wi-Fi 连接控制 )
 
 ![](rgbled-matrix/upload_081903273b3fd8d4f529c88856192fe4.png)
 
