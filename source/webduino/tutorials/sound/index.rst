@@ -7,5 +7,6 @@
 
    sound-effect
 
-speak-aloud
-speech-recognition
+   :speak-aloud
+   :speech-recognition
+   
