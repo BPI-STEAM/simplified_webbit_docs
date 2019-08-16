@@ -5,7 +5,11 @@ Web:Bit 是 Webduino Bit 开发板的缩写，Web:Bit 教育版是由 Webduino
 与台湾许多优秀的信息化教育的教师们，共同合作研发出的一款用于 STEAM
 课堂的教学套件。
 
-|image1|
+.. image:: editor.png
+
+下面介绍一下积木编辑器相关文档目录。
+
+.. image:: menu.png
 
 想知道更多？可以点击目录或底部 [ Next ] 按钮继续往下阅读。
 
@@ -32,5 +36,3 @@ Web:Bit 是 Webduino Bit 开发板的缩写，Web:Bit 教育版是由 Webduino
 .. _`Web:Bit 英文社区`: http://forum.banana-pi.org/c/bpi-bit
 .. _Webduino 国内版: https://webduino.com.cn
 .. _Webduino 国际版: https://webduino.io/
-
-.. |image1| image:: https://codimd.s3.shivering-isles.com/demo/uploads/upload_2dffa7ebdd100d607b14082eadbf2db3.png

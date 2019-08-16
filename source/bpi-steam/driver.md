@@ -15,7 +15,7 @@
 
 将板子通过 MicroUSB 线连接到你的电脑里，以下以 Windows 10 为例。
 
-![](driver/connect.png)
+![](driver/connect.gif)
 
 ### 查看驱动
 
